@@ -21,8 +21,9 @@
     {
       "@id": "https://repolex.ai/r/asimov-platform/asimov-packaging/commit/994347d09ab7346099f67d8132e2f6247481fb0b",
       "git:hexsha": "994347d09ab7346099f67d8132e2f6247481fb0b",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v25.0.0-dev.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v25.0.0-dev.3",
+      "repolex:parsedAt": "2026-04-03T07:03:56.112586+00:00"
     }
   ]
 }
